@@ -11,7 +11,8 @@
 #
 # ❤️ Made with dedication and love by ItzShukla
 # -----------------------------------------------
-
+fastapi
+uvicorn[standard]
 aiofiles
 aiohttp
 apscheduler
